@@ -1,7 +1,10 @@
 Dataset Shape:
 (1500, 2)
 
-Statistics:
+Columns:
+['x', 'y']
+
+Summary Statistics:
                  x            y
 count  1500.000000  1500.000000
 mean     83.713931    58.263519
