@@ -1,0 +1,7 @@
+Independent Verification
+theta_deg: 30.0
+M: 0.03
+X: 55.0
+mean_error: 0.0007937854119978017
+max_error: 0.002322361982105574
+rmse: 0.0009302748618572623
